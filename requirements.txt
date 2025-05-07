@@ -1,0 +1,15 @@
+torch
+transformers
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+lime
+shap
+tqdm
+arabic-reshaper
+python-bidi
+jupyter
+notebook
+ipywidgets
